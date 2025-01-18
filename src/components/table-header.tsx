@@ -12,7 +12,7 @@ export function TableHeader() {
         <Link href="#" className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300">
           <ArrowLeft className="h-5 w-5" />
         </Link>
-        <h1 className="text-lg font-medium dark:text-gray-200">Name of the file</h1>
+        <h1 className="text-lg font-medium dark:text-gray-200">Company Evaluation Table</h1>
       </div>
       <div className="flex items-center gap-6">
         <div className="flex items-center gap-2">
